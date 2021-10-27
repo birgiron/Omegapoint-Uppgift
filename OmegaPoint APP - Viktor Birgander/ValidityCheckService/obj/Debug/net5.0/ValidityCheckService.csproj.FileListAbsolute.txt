@@ -1,0 +1,12 @@
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\bin\Debug\net5.0\ValidityCheckService.deps.json
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\bin\Debug\net5.0\ValidityCheckService.dll
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\bin\Debug\net5.0\ref\ValidityCheckService.dll
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\bin\Debug\net5.0\ValidityCheckService.pdb
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.csproj.AssemblyReference.cache
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.dll
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ref\ValidityCheckService.dll
+C:\Users\Viktor\source\repos\OmegaPoint APP - Viktor Birgander\ValidityCheckService\obj\Debug\net5.0\ValidityCheckService.pdb
